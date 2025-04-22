@@ -1,0 +1,8 @@
+[INFO] Downloading 'https://ftp.ncbi.nih.gov/snp/redesign/archive/b157/VCF/GCF_000001405.40.gz' into '/home/alex/code/dbsnp/' 
+download_url(ok): /home/alex/code/dbsnp/GCF_000001405.40.gz (file)
+add(ok): GCF_000001405.40.gz (file)
+save(ok): . (dataset)
+action summary:
+  add (ok: 1)
+  download_url (ok: 1)
+  save (ok: 1)
